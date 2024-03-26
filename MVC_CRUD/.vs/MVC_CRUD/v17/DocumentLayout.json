@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\0326\\MVC_CRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\models\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:models\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|D:\\0326\\MVC_CRUD\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\controllers\\customerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:controllers\\customerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\views\\customerhome\\listcust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:views\\customerhome\\listcust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|d:\\0326\\mvc_crud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1DFC5-19A6-40B5-9C6B-6C576583F46E}|MVC_CRUD.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerHomeController.cs",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Controllers\\CustomerHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerHomeController.cs",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Controllers\\CustomerHomeController.cs",
+              "RelativeToolTip": "Controllers\\CustomerHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:22:27.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T10:12:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T09:57:22.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:52:39.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Customers.cs",
               "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Models\\Entities\\Customers.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Customers.cs",
@@ -35,15 +115,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MVCDBContext.cs",
               "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Data\\MVCDBContext.cs",
               "RelativeDocumentMoniker": "Data\\MVCDBContext.cs",
               "ToolTip": "D:\\0326\\MVC_CRUD\\Data\\MVCDBContext.cs",
               "RelativeToolTip": "Data\\MVCDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T09:30:59.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:38:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListCust.cshtml",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Views\\CustomerHome\\ListCust.cshtml",
+              "RelativeDocumentMoniker": "Views\\CustomerHome\\ListCust.cshtml",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Views\\CustomerHome\\ListCust.cshtml",
+              "RelativeToolTip": "Views\\CustomerHome\\ListCust.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T10:23:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\0326\\MVC_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\0326\\MVC_CRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:44:01.082Z",
               "EditorCaption": ""
             }
           ]

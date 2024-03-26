@@ -1,6 +1,6 @@
 ﻿namespace MVC_CRUD.Models.Entities
 {
-    public class Customers
+    public class Customer
     {
         public string? CustorId {get; set; }
 
